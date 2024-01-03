@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Leanworx Weather</string>
+
+    <string name="search_hint">Search for a city</string>
+    <string name="temperature_value">%1$s°</string>
+    <string name="feels_like_temperature_value">Feels like %1$s°C</string>
+</resources>
